@@ -80,6 +80,4 @@ python password_checker.py
 - Dark mode
 - Advanced security analysis
 
-## Author
 
-Shreeya More
