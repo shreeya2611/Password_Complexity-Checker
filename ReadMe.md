@@ -19,6 +19,8 @@ The Password Complexity Checker is a Python application that evaluates password 
 
 ## Output
 
+## Output
+
 ![Project Output](output.png)
 
 ## How to Run
